@@ -5,7 +5,7 @@ AWS上にWebサーバおよびAPIサーバを構築するインフラ構成を�
 
 ## 構成概要
 
-- Terraformを使用して以下を構築：
+- Terraformを使用して以下を構築
 - Amazon LinuxベースのWebサーバ
 - Amazon LinuxベースのAPIサーバ
 - サーバの構築後、Tera Termを用いてそれぞれにSSHログインし、セットアップを実施
